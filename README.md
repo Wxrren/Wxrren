@@ -12,8 +12,8 @@ Deployed Site: https://daintree-warren-b9316d9c9237.herokuapp.com
 
 
 
-## Hackathon Badge:
-![February 2025 Hackathon Badge](https://raw.githubusercontent.com/Wxrren/Wxrren/main/images/Code%20Institute%20-%20February%202025%20Hackathon%20Participant%20-%202025-02-18.png)
+## Hackathon Badges:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+February 2025 - "Love.exe" [Hackathon Badge](/images/Code%20Institute%20-%20February%202025%20Hackathon%20Participant%20-%202025-02-18.png ) - View on  [Badgr](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w) - Project [code](https://github.com/dimitri-edel/team-5)
 
 
 
