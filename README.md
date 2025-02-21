@@ -10,8 +10,10 @@
 Code: https://github.com/Wxrren/Daintree
 Deployed Site: https://daintree-warren-b9316d9c9237.herokuapp.com
 
-Hackathon Badges:
-![Badge: February 2025 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=warren.lee.smith%40hotmail.co.uk)
+## Hackathon Badges:
+
+[![February 2025 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w/image)](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w?embedVersion=1)
+
 
 <!---
 Wxrren/Wxrren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
