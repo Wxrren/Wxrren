@@ -12,9 +12,10 @@ Deployed Site: https://daintree-warren-b9316d9c9237.herokuapp.com
 
 ## Hackathon Badges:
 
-[![February 2025 Hackathon: Participant](Code Institute - February 2025 Hackathon Participant - 2025-02-18.png)](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w)
+[![February 2025 Hackathon: Participant](/images/Code%20Institute%20-%20February%202025%20Hackathon%20Participant%20-%202025-02-18.png)](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w)
 
 [View Badge on Badgr](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w)
+
 
 
 <!---
