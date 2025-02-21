@@ -10,11 +10,15 @@
 Code: https://github.com/Wxrren/Daintree
 Deployed Site: https://daintree-warren-b9316d9c9237.herokuapp.com
 
+
+
 ## Hackathon Badges:
+<a href="https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w">
+    <img src="https://raw.githubusercontent.com/Wxrren/Wxrren/main/images/Code%20Institute%20-%20February%202025%20Hackathon%20Participant%20-%202025-02-18.png
+    " width="100" height="100" title="February 2025 Hackathon - 'LOVE.EXE'"> 
+</a>
 
-[![February 2025 Hackathon: Participant](/images/Code%20Institute%20-%20February%202025%20Hackathon%20Participant%20-%202025-02-18.png)](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w)
 
-[View Badge on Badgr](https://api.eu.badgr.io/public/assertions/7IybGdywTZWvWFeNVk4F5w)
 
 
 
